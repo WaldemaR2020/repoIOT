@@ -6,23 +6,5 @@
 <div><object data="dane.txt"></object></div>
 <p>My first paragraph.</p>
 
-<?php
-
-// utworzenie uchwytu do pliku
-$plik = fopen('dane.txt','r');
-
-$zawartosc = '';
-
-// przypisanie zawartości do zmiennej
-while(!feof($plik))
-{
-   $linia = fgets($plik);
-   $zawartosc .= $linia;
-}
-
-echo $zawartosc;
-
-?>
-
 </body>
 </html>
