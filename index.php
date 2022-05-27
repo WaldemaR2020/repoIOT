@@ -3,6 +3,7 @@
 <body>
 
 <h1>My First Heading</h1>
+<div><object data="dane.txt"></object></div>
 <p>My first paragraph.</p>
 
 <?php
