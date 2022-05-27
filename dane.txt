@@ -1,12 +1,1 @@
-¬ÉWilgotnosc %: 44.00
-Temperatura *C: 23.90
-Wilgotnosc %: 44.00
-Temperatura *C: 23.90
-Wilgotnosc %: 44.00
-Temperatura *C: 23.90
-Wilgotnosc %: 44.00
-Temperatura *C: 23.90
-Wilgotnosc %: 44.00
-Temperatura *C: 23.90
-Wilgotnosc %: 44.00
-Temperatura *C: 23.90
+
