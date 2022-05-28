@@ -1,1 +1,2 @@
 Wilgotnosc: 44.00
+Temperatura: 100.00
