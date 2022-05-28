@@ -1,2 +1,1 @@
 Wilgotnosc: 44.00
-Temperatura: 24.00
