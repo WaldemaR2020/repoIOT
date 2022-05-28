@@ -1,1 +1,64 @@
-aaa
+Ã’²Wilgotnosc %: nan
+Temperatura *C: nan
+Wilgotnosc %: nan
+Temperatura *C: nan
+Wilgotnosc %: 38.00
+Temperatura *C: 23.50
+Wilgotnosc %: 38.00
+Temperatura *C: 23.50
+Wilgotnosc %: 37.00
+Temperatura *C: 23.50
+Wilgotnosc %: 37.00
+Temperatura *C: 23.50
+Wilgotnosc %: 38.00
+Temperatura *C: 23.50
+Wilgotnosc %: 38.00
+Temperatura *C: 23.50
+Wilgotnosc %: 38.00
+Temperatura *C: 23.50
+Wilgotnosc %: 38.00
+Temperatura *C: 23.50
+Wilgotnosc %: 38.00
+Temperatura *C: 23.60
+Wilgotnosc %: 38.00
+Temperatura *C: 23.60
+Wilgotnosc %: 38.00
+Temperatura *C: 23.60
+Wilgotnosc %: 38.00
+Temperatura *C: 23.60
+Wilgotnosc %: 38.00
+Temperatura *C: 23.60
+Wilgotnosc %: 38.00
+Temperatura *C: 23.60
+Wilgotnosc %: 38.00
+Temperatura *C: 23.60
+Wilgotnosc %: 38.00
+Temperatura *C: 23.60
+Wilgotnosc %: 38.00
+Temperatura *C: 23.60
+¬ÿWilgotnosc %: nan
+Temperatura st.C: nan
+[2JWilgotnosc %: 37.00
+Temperatura st.C: 23.30
+[2JWilgotnosc %: 37.00
+Temperatura st.C: 23.30
+[2JòóWilgotnosc %: 37.00
+Temperatura st.C: 23.20
+[2JWilgotnosc %: 38.00
+Temperatura st.C: 23.30
+[2J’’Wilgotnosc %: 37.00
+Temperatura st.C: 23.90
+[2JWilgotnosc %: 38.00
+Temperatura st.C: 23.90
+[2J‚ãWilgotnosc %: 38.00
+Temperatura st.C: 23.80
+Wilgotnosc %: 38.00
+Temperatura st.C: 23.80
+Wilgotnosc %: 38.00
+Temperatura st.C: 23.80
+Wilgotnosc %: 38.00
+Temperatura st.C: 23.80
+•ýWilgotnosc: 44.00
+Temperatura: 23.90
+Wilgotnosc: 44.00
+Temperatura: 23.90
