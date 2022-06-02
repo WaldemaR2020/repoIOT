@@ -1,2 +1,8 @@
-Wilgotnosc: 44.00
-Temperatura: 100.00
+ă‚łÁWilgotnosc: 56.00
+Temperatura: 24.20
+Wilgotnosc: 55.00
+Temperatura: 24.20
+Wilgotnosc: 55.00
+Temperatura: 24.20
+Wilgotnosc: 55.00
+Temperatura: 24.20
